@@ -25,4 +25,10 @@ function birth(){
                   if(document.getElementById("gender").checked){
                       alert(arrayNameMan[dayNumber - 1]);
                   }
-}
+                  else if(document.getElementById("gende").checked){
+                    alert(arrayNameFemale[dayNumber - 1]);
+                }else{
+                    console.log("none");
+                }
+                }
+                }
