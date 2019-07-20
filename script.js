@@ -11,4 +11,7 @@ function birth(){
     if (yy<=0){
         alert("no centruy");
         }
+        else if(yy<=100){
+            alert("first century");
+            }
 }
