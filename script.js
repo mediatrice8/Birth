@@ -17,4 +17,12 @@ function birth(){
             else if(yy % 100 == 0){
                 var result =yy/100;
                 }
+                else{
+                    result =yy/100 +1;
+                    var d =((((result/4)- 2*result -1) +(5*yy/4) +(26*(mm+1)/10) +dd) % 7);
+                  var dayNumber = Math.round(d);
+                  console.log(dayNumber);
+                  if(document.getElementById("gender").checked){
+                      alert(arrayNameMan[dayNumber - 1]);
+                  }
 }
