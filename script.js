@@ -14,4 +14,7 @@ function birth(){
         else if(yy<=100){
             alert("first century");
             }
+            else if(yy % 100 == 0){
+                var result =yy/100;
+                }
 }
