@@ -7,4 +7,6 @@ function birth(){
     var dd = parseInt(array[2]);
     var mm = parseInt(array[1]);
     var yy = parseInt(array[0]);
+    console.log("year: "+ yy +"month: " + mm + "day:" + dd);
+
 }
