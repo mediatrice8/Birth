@@ -8,5 +8,7 @@ function birth(){
     var mm = parseInt(array[1]);
     var yy = parseInt(array[0]);
     console.log("year: "+ yy +"month: " + mm + "day:" + dd);
-
+    if (yy<=0){
+        alert("no centruy");
+        }
 }
