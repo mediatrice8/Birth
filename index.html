@@ -6,51 +6,61 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Birth Website</title>
     <link rel="stylesheet" type="text/css" href="bootstrap.css">
+    <link rel="stylesheet" type ="text/css" href="styles.css">
 </head>
 <body>
     <div class ="container">
         <div class="row">
+            <h1>WELCOME TO BABY'Akan Name</h1>
+            <div class="col-md-5">
             <nav>
-                <a href="#home">Home</a>
-                <a hrfe="about">About</a>
-                <a href="contact">Contact</a>
+                <a href="#home">Home</a><br><br><br><br>
+                <a href="#about">About</a><br><br><br><br>
+                <a href="#contact">Contact</a><br><br><br><br>
             </nav>
-        </div>
+             </div>
+             <div class ="col-md-7">
+                 <img src="https://www.verywellfamily.com/thmb/600uISUUYbChux-sxX41h6doswU=/3433x2575/smart/filters:no_upscale()/526296499-56a771c83df78cf7729601b6.jpg" height="250">
+             </div>
+        </div><hr>
         <div class="row">
             <p> Children are given their first name as a 'day name' which corresponds to the day in the week they were born. Here are Ghanian day names.</p>
+            <div class="col-md-6">
+            Calendar:<br>
+    <input  id="date" type="date" name="bday"><br>
+    Gender:<br>
+    <input id ="gender"type="radio" name="gender" value="male"> Male<br>
+    <input  id= "gende"type="radio" name="gender" value="female"> Female<br> 
+    <input type="button" name="" value="submit" id='submit' onclick="birth()">
+             </div>
         </div>
         <div class="row">
             <div class="col-md-3">
-                <h1>Male's names</h1>
+                <h3>Male's names</h3>
                 <ul>
+                    <li>Sunday: Kwasi</li>
                     <li>Monday: Kwadwo</li>
                     <li>Tuesday: Kwabena</li>
                     <li>Wednesday: Kwaku</li>
                     <li>Thursday:  Yaw</li>
                     <li>Friday: Kofi</li>
                     <li>Saturday: Kwame</li>
-                    <li>Sunday: Kwasi</li>
                 </ul>
             </div>
             <div class ="col-md-6">
                     <img src="https://www.familyeducation.com/sites/default/files/inline-images/Baby%20Names%20by%20Origin%20Image_0.jpg" height="350">
-                    <!-- Calendar:<br>
-    <input  id="date" type="date" name="bday"><br>
-    Gender:<br>
-    <input id ="gender"type="radio" name="gender" value="male"> Male<br>
-    <input  id= "gende"type="radio" name="gender" value="female"> Female<br> 
-    <input type="button" name="" value="submit" id='submit' onclick="birth()"> -->
             </div>
             <div class="col-md-3">
-                <h1>Female'names</h1>
+                <h3>Female'names</h3>
                 <ul>
+                    <li>Sunday: Akosua</li>
                     <li>Monday: Adwoa</li>
                     <li>Tuesday: Abenaa</li>
                     <li>Wednesday: Akua</li>
                     <li>Thursday:  Yaa</li>
                     <li>Friday: Afua</li>
                     <li>Saturday: Ama</li>
-                    <li>Sunday: Akosua</li>
+                
                 </ul>
 
             </div>
