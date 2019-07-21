@@ -13,7 +13,7 @@
 }
 .container > h1{
     float: center;
-    background-color:#007bff;
+    background-color:gray;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 input, radio, textarea {
