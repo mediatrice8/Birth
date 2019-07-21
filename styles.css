@@ -40,3 +40,10 @@ background-color: #5ea4f0;
 #img1, #img2{
     opacity: 1.1;
 }
+.nav >a{ 
+display: inline-block;
+justify-content: space-around;
+}
+#contact{
+    background-color: rgb(57, 102, 44);
+}
