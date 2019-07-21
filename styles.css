@@ -2,6 +2,20 @@
     text-decoration: underline;
     height: 100px;
     width: 100px;
-    color:rgb(65, 3, 3);
+    color:rgb(245, 239, 239);
     
+}
+.col-md-5 {
+    background-image: url("https://images.pexels.com/photos/997443/pexels-photo-997443.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+    background-repeat: no-repeat;
+    background-size:  cover;
+    
+}
+.container > h1{
+    float: center;
+    background-color:#007bff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+input, radio, textarea {
+    background-color: #bde9ba;
 }
