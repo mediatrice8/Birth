@@ -3,6 +3,7 @@
     height: 100px;
     width: 100px;
     color:rgb(245, 239, 239);
+
     
 }
 .col-md-5 {
@@ -26,4 +27,16 @@ input, radio, textarea {
     left: 5%;
     transform: translate(-5%, -5%);
     color:rgb(2, 0, 0);
+}
+.col-md-3 > ul> li{
+background-color: #5ea4f0;
+}
+.row ,.col-md-12 {
+    background-color:#f8f9fa;
+    color:black;
+
+
+}
+#img1, #img2{
+    opacity: 1.1;
 }
