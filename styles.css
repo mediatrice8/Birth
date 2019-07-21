@@ -1,6 +1,7 @@
-.col-md-5 > nav > a{
+.col-md-5 > nav > a:hover{
     text-decoration: underline;
     height: 100px;
     width: 100px;
+    color:rgb(65, 3, 3);
     
 }
