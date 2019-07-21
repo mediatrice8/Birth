@@ -21,4 +21,9 @@ input, radio, textarea {
 }
 .col-md-6 > img{
     opacity:0.3;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    transform: translate(-5%, -5%);
+    color:rgb(2, 0, 0);
 }
