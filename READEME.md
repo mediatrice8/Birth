@@ -12,3 +12,10 @@ This project is created with this language
 .BOOTSTRAP
 .JAVASCRIPT
 .HTML & CSS
+## Contact information
+CONTACT US
+-----------
+Phone:+250785610704
+Email:kamultd@gmail.com
+Address: UR_CHMS
+Supporters:Moringa School
