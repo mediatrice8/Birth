@@ -14,7 +14,7 @@
 }
 .container > h1{
     float: center;
-    background-color:gray;
+    background-color:rgb(243, 134, 152);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 input, radio, textarea {
@@ -50,4 +50,5 @@ justify-content: space-around;
 }
 .col-md-7{
     font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
 }

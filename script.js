@@ -3,7 +3,7 @@ function birth(){
     var  array = dat.split("-");
     var arrayNameMan = ['Kwasi','Kwadwo', 'Kwabena', 'Kwaku', 'Yaw', 'Kofi', 'Kwame',];
     var arrayNameFemale = ['Akosua','Adwoa', 'Abenaa', 'Akua', 'Yaa', 'Afua', 'Ama',];
-    // var arrayDay =['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday']
+    var arrayDay =['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday']
     console.log("month:", dat);
     var dd = parseInt(array[2]);
     var mm = parseInt(array[1]);
