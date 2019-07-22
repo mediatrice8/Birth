@@ -19,3 +19,5 @@ Phone:+250785610704
 Email:kamultd@gmail.com
 Address: UR_CHMS
 Supporters:Moringa School
+## License and Copyright information.
+© 2019 RWANDA®.All reserved and licence is GPL
