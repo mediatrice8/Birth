@@ -16,7 +16,7 @@ This project is created with this language
 CONTACT US
 -----------
 Phone:+250785610704
-Email:kamultd@gmail.com
+Email:kampiremediatrice@gmail.com
 Address: UR_CHMS
 Support:Moringa School
 ## License and Copyright information.
